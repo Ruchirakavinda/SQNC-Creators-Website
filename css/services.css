@@ -1,0 +1,64 @@
+* {
+  font-family: Ubuntu;
+}
+
+.line {
+  width: 10%;
+  height: 5px;
+  background: #30a945;
+  transition: width 1s;
+  border-top-right-radius: 10px;
+}
+.line:hover {
+  width: 50%;
+}
+img {
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.ct {
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.74),
+      rgba(31, 233, 139, 0.3)
+    ),
+    url("../images/portrait-woman-customer-service-worker.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  padding: 2% 0% 10% 0%;
+}
+.heading {
+  color: rgb(255, 255, 255);
+  font-size: 6vh;
+  font-weight: 500;
+  padding-top: 10%;
+}
+.sub {
+  color: white;
+  
+}
+.cont {
+  border-radius: 15px;
+  margin-top: -5%;
+  box-shadow: 5px 10px 25px rgba(0, 0, 0, 0.199);
+  margin-bottom:5%;
+  padding-top: 0%;
+
+  
+}
+.crd {
+  margin-top: 60px;
+}
+h5 {
+  font-weight: 600;
+}
+.slog3
+{
+  color: rgb(0, 172, 29); 
+  font-weight: bolder;
+  font-size: 18px;
+}
