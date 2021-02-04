@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Services SQNC</title>
-    <link rel="stylesheet" href="css/services.css">
+    <link rel="stylesheet" href="../css/services.css">
     <script src="../js/services.js"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu" />
+    <link rel="stylesheet" type="../text/css" href="//fonts.googleapis.com/css?family=Ubuntu" />
 
 <!--scroll animation-->
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
@@ -35,7 +35,7 @@
          <div class="row mt-1">
              <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
                 <div class=" crd mx-auto bg-white" style="width: 80%;" >
-                    <center><img src="images/Usability testing-pana.svg" class="card-img-top" style="width: 70%;" alt="..." ></center>
+                    <center><img src="../images/Usability testing-pana.svg" class="card-img-top" style="width: 70%;" alt="..." ></center>
                     <div class="card-body">
                      <center>  <h4 class="card-title">UI/UX Design</h4></center><br>
                      <center><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex corrupti sint harum magni tempora et cum cupiditate beatae blanditiis, explicabo.</p></center>
@@ -46,7 +46,7 @@
              </div>
              <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
                 <div class=" crd mx-auto bg-white" style="width:80%;">
-                    <center><img src="images/Developer activity-amico.svg" class="card-img-top" style="width: 70%;" alt="..."></center>
+                    <center><img src="../images/Developer activity-amico.svg" class="card-img-top" style="width: 70%;" alt="..."></center>
                     <div class="card-body">
                         <center>  <h4 class="card-title">Web Development</h4></center><br>
                         <center><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex corrupti sint harum magni tempora et cum cupiditate beatae blanditiis,explicabo.</p></center>
@@ -58,7 +58,7 @@
          <div class="row mt-5">
             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
                <div class=" crd mx-auto bg-white" style="width: 80%;">
-                   <center><img src="images/Designer-amico.svg" class="card-img-top" style="width: 70%;" alt="..."></center>
+                   <center><img src="../images/Designer-amico.svg" class="card-img-top" style="width: 70%;" alt="..."></center>
                    <div class="card-body">
                     <center>  <h4 class="card-title">Designing</h4></center><br>
                     <center><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex corrupti sint harum magni tempora et cum cupiditate beatae blanditiis, </p></center>
@@ -68,7 +68,7 @@
             </div>
             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
                <div class=" crd mx-auto bg-white" style="width: 80%;">
-                  <center> <img src="images/Novelist writing-amico.svg" class="card-img-top" style="width: 70%;" alt="..."></center>
+                  <center> <img src="../images/Novelist writing-amico.svg" class="card-img-top" style="width: 70%;" alt="..."></center>
                    <div class="card-body">
                     <center>  <h4 class="card-title">Content Writing</h4></center><br>
                     <center><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex corrupti sint harum magni tempora et cum cupiditate beatae blanditiis,</p></center>

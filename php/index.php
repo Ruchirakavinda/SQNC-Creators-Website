@@ -8,13 +8,14 @@
     
 
      <!--navbar css-->
-     <link rel="stylesheet" href="css/navbar.css"> 
+     <link rel="stylesheet" href="../css/navbar.css"> 
+     <link rel="stylesheet" href="../css/footer.css">
      <!--Navbar js-->
-     <script src="js/navbar.js"></script>
+     <script src="../js/navbar.js"></script>
 
-<link rel="stylesheet" href="css/home.css">
-<link rel="stylesheet" href="css/style.css">
-<script type="text/javascript" src="js/home.js"></script>
+<link rel="stylesheet" href="../css/home.css">
+<link rel="stylesheet" href="../css/style.css">
+<script type="text/javascript" src="../js/home.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.min.js" integrity="sha256-qM7QTJSlvtPSxVRjVWNM2OfTAz/3k5ovHOKmKXuYMO4=" crossorigin="anonymous"></script>
 
@@ -39,7 +40,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
     
-
+<!-- Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
 </head>
@@ -49,26 +51,9 @@
 
  <div class="dark container-fluid" style="padding:0px 0px 0px 0px;overflow: hidden;" >
   
-  <nav class="navbar navbar-expand-md navbar-light" id="navDiv">
-    <a href="#" class="nav-brand">
-        <img src="images/navlogo.png" alt="SQNC" style="width: 100px;">
-    </a>
-
-    <!-- Toggler/collapsibe Button -->
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-         <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse justify-content-end navbar-light" id="collapsibleNavbar">
-        <ul class="navbar-nav">
-            <li class="nav-item"><a href="./index.html" class="nav-link">Home</a></li>
-            <li class="nav-item"><a href="./about.html" class="nav-link">About</a></li>
-            <li class="nav-item"><a href="./services.html" class="nav-link">Services</a></li>
-            <li class="nav-item"><a href="#footer" class="nav-link">Contact Us</a></li> 
-        </ul>
-    </div>
-</nav>
-
+  <?php 
+    include_once 'navigation.php';
+  ?>
 
   <div class="row container-fluid justify-content-center" >
 
@@ -99,7 +84,7 @@
           </div>
         </div>
         <br><br>
-        <a href="about.html#port" style="text-decoration: none;"><div class="buttoncover  ">
+        <a href="about.php" style="text-decoration: none;"><div class="buttoncover  ">
           Check It Out
         </div></a>
   
@@ -108,7 +93,7 @@
 
     </div>
     <div class="col-xl-6 col-sm-12" style="text-align: center;padding-top: 2%;overflow: hidden;" data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000" >
-      <img src="images/mock1.png" class="img-fluid mx-auto" style="width: 100%;  opacity: 0.9;margin-top: 10px;" >
+      <img src="../images/mock1.png" class="img-fluid mx-auto" style="width: 100%;  opacity: 0.9;margin-top: 10px;" >
 
     </div>
 
@@ -149,7 +134,7 @@
 <hr class="hr1">
 <center>
   <video autoplay muted loop class="vd1 mx-auto"  >
-    <source src="images/cover.mp4" type="video/mp4">
+    <source src="../images/cover.mp4" type="video/mp4">
   </video>
 </center>
   </div>
@@ -169,7 +154,7 @@
 <div class="container-fluid" >
     <div class="row">
     <div class="col-xl-6 col-sm-12" style="padding: 0px;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-<img src="images/design.jpg" alt="" class="img1" >
+<img src="../images/design.jpg" alt="" class="img1" >
     </div>
     <div class="col-xl-6 col-sm-12" style="padding:5% 5% 5% 5%;background-color: rgb(68, 68, 68); "data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000" >
       <h1 class="topic" style="color:rgb(0, 172, 0);" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
@@ -196,14 +181,14 @@
 <div class="container-fluid" style="padding: 0px;">
  
   <div class="container-fluid" style="border-radius:100% 0% 100% 0% / 100% 100% 0% 0%  ;background-color: rgba(0, 0, 0, 0.068);width: 100%; height: auto; text-align: center; padding: 50px 0px 50px 0px;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-    <img class="mx-auto img-fluid" src="images/res.png" alt="" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1500">
+    <img class="mx-auto img-fluid" src="../images/res.png" alt="" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1500">
     <h1 class="topic" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
       Responsive Web Developing
     </h1><br>
     <p class="mx-auto cont" style="width: 70%;" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium neque nam sunt fuga sed perspiciatis rem excepturi expedita id itaque. A dolorum asperiores commodi inventore incidunt, vitae repudiandae error quam. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, assumenda labore quis porro quisquam veniam fuga accusamus! Odit quam neque, aut consequuntur dolor eos ullam asperiores enim quidem blanditiis consectetur?
       <br>
-      <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000"><a href="services.html" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
+      <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000"><a href="services.php" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
     </p>
     
   </div>
@@ -216,19 +201,19 @@
      
     </h1><br>
     
-    <p data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000"><a href="services.html" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
+    <p data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000"><a href="services.php" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
     
   </div>
   
     <div class="col-xl-6 col-sm-12" style="padding: 0px;text-align: right; overflow: hidden;" >
-<img src="images/uiux.png" alt="" class="img-fluid "data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" >
+<img src="../images/uiux.png" alt="" class="img-fluid "data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" >
     </div>
 </div>
 </div>
  <div class="container-fluid">
   <div class="row">
     <div class="col-xl-6 col-sm-12 graphic"  >
-      <img src="images/gr.png" alt="" class="img-fluid mx-auto img2 " data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000"  >
+      <img src="../images/gr.png" alt="" class="img-fluid mx-auto img2 " data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000"  >
     </div>
     <div class="col-xl-6 col-sm-12" style="padding:3% 5% 0% 10%;overflow: hidden;">
       <h1 class="topic" style="color: rgba(37, 37, 37, 0.623);" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">Computer Graphic <br> Designs</h1><br><br>
@@ -245,7 +230,7 @@
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
           </p></div>
       </div><br>
-      <p data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000"><a href="services.html" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
+      <p data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000"><a href="services.php" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
       <br>
       
       
@@ -317,7 +302,7 @@
     <div class="col-sm-12 col-md-12 col-lg-1 col-xl-1">  
     </div>
     <div class="col-sm-12 col-md-12 col-lg-2 col-xl-2" >
-      <a href="form.html" style="text-decoration: none;"><div class="buttonfeed">
+      <a href="form.php" style="text-decoration: none;"><div class="buttonfeed">
         Leave a FeedBack
       </div></a>
     </div>
@@ -355,5 +340,12 @@
   AOS.init();
 </script>
 <!--scroll animation-->
+
+<?php
+  include_once 'footer.php';
+?>
+
+
+
 </body>
 </html>

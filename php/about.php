@@ -4,8 +4,8 @@
         <title>About SQNC</title>
         <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/about.css">
-    <script src="about.js"></script>
+    <link rel="stylesheet" href="../css/about.css">
+    <script src="../about.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
     
@@ -64,7 +64,7 @@
                                         </div>
                                     
                                         <div class="col-12 col-sm-12 col-md-6 col-lg-6 ">
-                                            <img src="images/cover3.png" alt="" class="img-fuild" style="width: 100%;border-radius: 10px;">
+                                            <img src="../images/cover3.png" alt="" class="img-fuild" style="width: 100%;border-radius: 10px;">
                                         </div>
                                     
                                 
@@ -214,19 +214,19 @@
                                     <div class="row">
                                       
                                       <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
-                                        <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/wd.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                        <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/wd.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
                                           
                                         </div>
                                       </div>
                                       
                                       <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
-                                        <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/wd.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                        <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/wd.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
                                           
                                         </div>
                                       </div>
                                       
                                       <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                                        <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/wd.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                        <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/wd.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
                                           
                                         </div>
                                       </div>
@@ -253,19 +253,19 @@
                                     <div class="row">
                                       
                                         <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  "data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
-                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/ui.webp" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/ui.webp" alt=""  class="img-fulid" style="height: 100%;"></a>
                                               
                                             </div>
                                           </div>
                                           
                                           <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  "data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
-                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/ui.webp" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/ui.webp" alt=""  class="img-fulid" style="height: 100%;"></a>
                                               
                                             </div>
                                           </div>
                                           
                                           <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  "data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/ui.webp" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/ui.webp" alt=""  class="img-fulid" style="height: 100%;"></a>
                                               
                                             </div>
                                           </div>
@@ -289,19 +289,19 @@
                                     <div class="row">
                                       
                                         <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  "data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
-                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/web1.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/web1.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
                                               
                                             </div>
                                           </div>
                                           
                                           <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  "data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
-                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/web1.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/web1.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
                                               
                                             </div>
                                           </div>
                                           
                                           <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  "data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="images/web1.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
+                                            <div class="hover hover-3 text-white rounded "  ><a href="#"><img src="../images/web1.jpg" alt=""  class="img-fulid" style="height: 100%;"></a>
                                               
                                             </div>
                                           </div>
@@ -363,7 +363,7 @@
 
 <!--team parallex-->
 
-<div class="container-fluid" style="background:linear-gradient(#000000b7, rgba(0, 0, 0, 0.719)), url('images/ui.webp'); width: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;  height: auto; padding: 5% 0% 5% 6%;background-attachment: fixed;text-align: center;" >
+<div class="container-fluid" style="background:linear-gradient(#000000b7, rgba(0, 0, 0, 0.719)), url('../images/ui.webp'); width: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;  height: auto; padding: 5% 0% 5% 6%;background-attachment: fixed;text-align: center;" >
     <div class="container mx-auto" style="text-align: center;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
         
               <p style=" color: #26b83f;font-weight: bold;font-size: 6vh;"  >Our Team</p><br>
@@ -384,11 +384,11 @@
         <div class="row">
             <div class="col apple ceo" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
                     <center>
-                        <img src="images/thilina.jpg" alt="" style="height: 250px; width: 250px;">
+                        <img src="../images/thilina.jpg" alt="" style="height: 250px; width: 250px;">
                             <h4 class="pt-3" style="color: #30A945;">
                                 Thilina Pathirage
                             </h4>
-                            <p>Co-founder / Director / Developer</p>
+                            <p>CEO</p>
                             <p>
                                 <div class="row">
                                     <div class="mx-auto">
@@ -418,7 +418,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/avishka.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/avishka.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Avishka Sooriyapperuma
                         </h5>
@@ -446,7 +446,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/ishi.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/ishi.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Ishan Kodippiliarachchi
                         </h5>
@@ -474,7 +474,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/mathee.jpeg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/mathee.jpeg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Matheesha Mahaliyana
                         </h5>
@@ -505,7 +505,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/ruchi.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/ruchi.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Ruchira Kavinda
                         </h5>
@@ -533,7 +533,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/sisa.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/sisa.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Sisara Nawaratne
                         </h5>
@@ -561,7 +561,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/hiruna.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/hiruna.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Hiruna Gayashan
                         </h5>
@@ -592,7 +592,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/member.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/member.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Developer
                         </h5>
@@ -620,7 +620,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/member.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/member.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Developer
                         </h5>
@@ -648,7 +648,7 @@
             <div class="col-12 col-sm-12 col-md-4 col-lg-4 apple">
                 <div class="member">
                     <center>
-                        <img src="images/member.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
+                        <img src="../images/member.jpg" alt="" style="border-radius: 50%; height: 40%; width: 40%;">
                         <h5 class="pt-3" style="color: #30A945;">
                             Developer
                         </h5>

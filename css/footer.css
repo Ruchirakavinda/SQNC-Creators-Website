@@ -1,0 +1,103 @@
+body,html
+{
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-image: url('./background.jpg');
+}
+
+.head
+{
+    height: 500px;
+}
+
+footer
+{
+    background-image: linear-gradient(#30a945, #30a945);
+    
+    width: 100%;
+    margin-bottom: 0;
+    height: auto;
+    color: white;
+    padding-bottom: 0 !important;
+    
+}
+
+.row
+{
+    padding-top: 15px !important;
+    height: fit-content;
+}
+
+#logo-footer
+{
+    width: 100px;
+    padding-bottom: 9px;
+}
+
+.ffa 
+{
+    padding: 7px 10px;
+    font-size: 30px;
+    width: 32px;
+    height: 32px;
+    margin: 5px 5px;
+    text-decoration: none;
+    border-radius: 100px;
+    box-shadow: 0px 0.5px 2px #252525;
+    margin-bottom: 55px;
+}
+  
+.ffa:hover 
+{
+    opacity: 0.7;
+    text-decoration: none;
+    color: white;
+}
+  
+.ffa-facebook 
+{
+    padding: 10px 11px;
+    background: white;
+    color: #30a945;
+}
+  
+.ffa-twitter 
+{
+    padding: 8px 10px;
+    background: white;
+    color: #30a945;
+}
+  
+.ffa-linkedin 
+{
+    background: white;
+    color: #30a945;
+}
+   
+.ffa-instagram 
+{
+    padding: 8px 9px;
+    background: white;
+    color: #30a945;
+}
+
+.copyright
+{
+    text-align: center;
+    background-color: green;
+    bottom: 0;
+    height: 50px;
+}
+
+.copyright p
+{
+    margin-bottom: 0 !important;
+    padding-top: 10px;
+}
+
+#Footer-Img
+{
+    padding-left: 150px;
+    height: 300px;
+}
