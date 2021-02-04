@@ -18,10 +18,8 @@ nav{
     margin-top: 10px !important;
     transition: 0.7s;
     margin: auto;
-    
     transition: 0.5s;
     width: 98.5%;
-
 }
 
 .nav-item{
@@ -32,12 +30,22 @@ nav{
 .nav-link{
     color: #30a945 !important;
     transition: 1s;
+    border-radius: 10px;
 }
 .nav-link:hover{
-    color: #30a945;
-    -webkit-text-fill-color:#148827;
+    color: #ffffff;
+    -webkit-text-fill-color:#ffffff;
+    background-color: #30a945;
+    border-radius: 10px;
 }
-
+@media screen and (max-width: 768px) {
+    .nav-link:hover{
+        color: #30a945;
+        -webkit-text-fill-color:#30a945;
+        background-color: #ffffff;
+        border-radius: 0px;
+    }
+  }
 
 
 
