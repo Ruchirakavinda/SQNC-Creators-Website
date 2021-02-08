@@ -25,24 +25,35 @@
                 </div>
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">
                     <h3><strong>Contact Us</strong></h3>
-                    <form id="frm">
+                    <form id="frm" method="POST" action="./contactt.php">
+                    <!--
+                    <?php
+                        $MSg = "";
+                        if(isset($_GET['success'])){
+                            $Msg = "Your message has been sent";
+                            echo "<div class='alert alert-success'>" . $Msg . "</div>";
+                        }
+                               
+                    ?>
+                    -->
+                    
                         <div class="mb-3">
                           <label for="exampleInputEmail1" class="form-label">Name</label>
-                          <input type="text" class="form-control" id="input1" placeholder="Enter name here" aria-describedby="emailHelp" onclick="validout()">
+                          <input name="namee" type="text" class="form-control" id="input1" placeholder="Enter name here" aria-describedby="emailHelp" onclick="validout()">
                           <span style="color:rgb(173, 40, 0);display:none;" id="span1"> ! Please Enter The User Name</span>
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Email address</label>
-                            <input type="text" class="form-control" id="input2" placeholder="example@abc.com" aria-describedby="emailHelp" onclick="validout2()">
+                            <input name="email" type="text" class="form-control" id="input2" placeholder="example@abc.com" aria-describedby="emailHelp" onclick="validout2()">
                             <span style="color:rgb(173, 40, 0);display:none;" id="span2"> ! Please Enter Valid E mail Address</span>
                           </div>
                         <div class = "form-group">
-                        <label for = "name" >Message</label>
-                        <textarea class = "form-control" id="input3" rows = "3" placeholder = "Type your message here" onclick="validout3()"></textarea>
+                        <label for = "msg" >Message</label>
+                        <textarea name="msg" class = "form-control" id="input3" rows = "3" placeholder = "Type your message here" onclick="validout3()"></textarea>
                         <span style="color:rgb(173, 40, 0);display:none;" id="span3"> ! Please Enter The Your Message</span>
                         </div>
-                        <div type="submit" class=" btn btn-outline-light mt-3 mb-3" onclick="valid()" >Submit</div>
-                        <!--button type="submit" class=" btn btn-outline-light mt-3 mb-3" onclick="valid()" >Submit</button-->
+                        <!--div name="sent" type="submit" class=" btn btn-outline-light mt-3 mb-3" onclick="valid()" >Submit</div-->
+                        <input name="sent" value="Submit" type="submit" class=" btn btn-outline-light mt-3 mb-3"  > <!-- onclick="valid()" -->
                       </form>
                 </div>
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">

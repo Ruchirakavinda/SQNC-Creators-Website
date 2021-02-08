@@ -59,10 +59,10 @@
           <span class="circle one"></span>
           <span class="circle two"></span>
 
-          <form  autocomplete="off" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000" id="frm1">
+          <form action="feedback.php" method="POST" autocomplete="off" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000" id="frm1">
             <h3 class="title">FeedBack</h3>
             <div class="input-container">
-              <input type="text" name="name" class="input" placeholder="User Name" id="input1" onclick="validout()" />
+              <input type="text" name="uname" class="input" placeholder="User Name" id="input1" onclick="validout()" />
               <label for=""></label>
               <span>Username</span>
             </div>
@@ -81,14 +81,14 @@
             <span style="color:rgb(173, 40, 0);display:none;" id="span3"> ! Please Enter Valid Phone Number</span>
             
             <div class="input-container textarea">
-              <textarea name="message" class="input" placeholder="FeedBack" id="input4" onclick="validout4()"></textarea>
+              <textarea name="msg" class="input" placeholder="FeedBack" id="input4" onclick="validout4()"></textarea>
               <label for=""></label>
               <span>Message</span>
             </div>
             <span style="color:rgb(173, 40, 0);display:none;" id="span4"> ! Please Enter Your FeedBack</span>
             
-            <h1 onclick="valid()">SEND</h1>
-            <!--input type="submit" value="POST" class="btn" onclick="valid()"/-->
+            <!-- <h1 onclick="valid()">SEND</h1> -->
+            <input name="sent" type="submit" value="POST" class="btn" onclick="valid()">
           </form>
         </div>
       </div>
