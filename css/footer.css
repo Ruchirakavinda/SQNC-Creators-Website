@@ -6,10 +6,7 @@ body,html
     background-image: url('./background.jpg');
 }
 
-.head
-{
-    height: 500px;
-}
+
 
 footer
 {
@@ -18,12 +15,15 @@ footer
     width: 100%;
     margin-bottom: 0;
     height: auto;
-    color: white;
+    color: white !important;
     padding-bottom: 0 !important;
     
 }
+.footerpara{
+    color: white !important;
+}
 
-.row
+.frow
 {
     padding-top: 15px !important;
     height: fit-content;
@@ -35,52 +35,7 @@ footer
     padding-bottom: 9px;
 }
 
-.ffa 
-{
-    padding: 7px 10px;
-    font-size: 30px;
-    width: 32px;
-    height: 32px;
-    margin: 5px 5px;
-    text-decoration: none;
-    border-radius: 100px;
-    box-shadow: 0px 0.5px 2px #252525;
-    margin-bottom: 55px;
-}
-  
-.ffa:hover 
-{
-    opacity: 0.7;
-    text-decoration: none;
-    color: white;
-}
-  
-.ffa-facebook 
-{
-    padding: 10px 11px;
-    background: white;
-    color: #30a945;
-}
-  
-.ffa-twitter 
-{
-    padding: 8px 10px;
-    background: white;
-    color: #30a945;
-}
-  
-.ffa-linkedin 
-{
-    background: white;
-    color: #30a945;
-}
-   
-.ffa-instagram 
-{
-    padding: 8px 9px;
-    background: white;
-    color: #30a945;
-}
+
 
 .copyright
 {
@@ -94,6 +49,7 @@ footer
 {
     margin-bottom: 0 !important;
     padding-top: 10px;
+    color: white !important;
 }
 
 #Footer-Img
@@ -101,3 +57,37 @@ footer
     padding-left: 150px;
     height: 300px;
 }
+
+
+.faicon{
+    margin: 2px;
+    height: 35px;
+    width: 35px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+  }
+  .faicon .li{
+    padding-top: 7px;
+  }
+  .faicon .tw{
+    padding-top: 9px;
+  }
+  .faicon .git{
+    padding-top: 8px;
+  }
+
+  .fsocial{
+    color: #30A945;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    transition: 0.4s;
+    }
+  .fsocial:hover{
+        text-decoration: none;
+        color: #248033;
+    }
+
+.footer-icons{
+    display: flex !important;
+    }
