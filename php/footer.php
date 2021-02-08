@@ -1,3 +1,5 @@
+     
+     
      <!-- Footer -->
      <div class="head" id="footer">
 
@@ -11,31 +13,30 @@
     </div>-->
     <footer>
         <div class="container">
-            <div class="row">
+            <div class="row frow">
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">
                     <img id="logo-footer" src="../images/Footer-Logo.png">
-                    <p>Feel free to contact us anytime you need. We are ready to provide the best quality services with best possible customer service in order to make your experiance with Sequence Creators amazing. Follow us on our social media to receive updates and alerts about latest offers. We Create the Standards!</p>
+                    <p style="color: white;">Feel free to contact us anytime you need. We are ready to provide the best quality services with best possible customer service in order to make your experiance with Sequence Creators amazing. Follow us on our social media to receive updates and alerts about latest offers. We Create the Standards!</p>
+                   
+                   
                     <!-- Logos here-->
-                    <div class="so">
-                        <a class="ffa ffa-linkedin" href=""></a>
-                        <a class="ffa ffa-facebook" href="#"></a>
-                        <a class="ffa ffa-instagram" href=""></a>
-                        <a class="ffa ffa-twitter" href=""></a>
+                    
+                    <div class="footer-icons">
+                        <div class="faicon icon">
+                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li fsocial social" style="font-size: 20px;"></a>
+                        </div>
+                        <div class="faicon icon">
+                                <a href="#" class="fa fa-twitter mr-3 pl-2 tw fsocial social" style="font-size: 20px;"></a>
+                        </div>
+                        <div class="faicon icon">
+                            <a href="#" class="fa fa-github mr-3 pl-2 git fsocial social" style="font-size: 20px;"></a>
+                        </div>
                     </div>
+
                 </div>
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">
                     <h3><strong>Contact Us</strong></h3>
                     <form id="frm" method="POST" action="./contactt.php">
-                    <!--
-                    <?php
-                        $MSg = "";
-                        if(isset($_GET['success'])){
-                            $Msg = "Your message has been sent";
-                            echo "<div class='alert alert-success'>" . $Msg . "</div>";
-                        }
-                               
-                    ?>
-                    -->
                     
                         <div class="mb-3">
                           <label for="exampleInputEmail1" class="form-label">Name</label>
@@ -69,7 +70,7 @@
     var email = /^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/;
     function valid()
 
-   
+
 {
     if(document.getElementById("input1").value=="")
     {
