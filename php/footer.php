@@ -25,20 +25,24 @@
                 </div>
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">
                     <h3><strong>Contact Us</strong></h3>
-                    <form>
+                    <form id="frm">
                         <div class="mb-3">
                           <label for="exampleInputEmail1" class="form-label">Name</label>
-                          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter name here" aria-describedby="emailHelp">
+                          <input type="text" class="form-control" id="input1" placeholder="Enter name here" aria-describedby="emailHelp" onclick="validout()">
+                          <span style="color:rgb(173, 40, 0);display:none;" id="span1"> ! Please Enter The User Name</span>
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Email address</label>
-                            <input type="email" class="form-control" id="exampleInputEmail1" placeholder="example@abc.com" aria-describedby="emailHelp">
+                            <input type="text" class="form-control" id="input2" placeholder="example@abc.com" aria-describedby="emailHelp" onclick="validout2()">
+                            <span style="color:rgb(173, 40, 0);display:none;" id="span2"> ! Please Enter Valid E mail Address</span>
                           </div>
                         <div class = "form-group">
-                        <label for = "name">Message</label>
-                        <textarea class = "form-control" rows = "3" placeholder = "Type your message here"></textarea>
+                        <label for = "name" >Message</label>
+                        <textarea class = "form-control" id="input3" rows = "3" placeholder = "Type your message here" onclick="validout3()"></textarea>
+                        <span style="color:rgb(173, 40, 0);display:none;" id="span3"> ! Please Enter The Your Message</span>
                         </div>
-                        <button type="submit" class="btn btn-outline-light mt-3 mb-3">Submit</button>
+                        <div type="submit" class=" btn btn-outline-light mt-3 mb-3" onclick="valid()" >Submit</div>
+                        <!--button type="submit" class=" btn btn-outline-light mt-3 mb-3" onclick="valid()" >Submit</button-->
                       </form>
                 </div>
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">
@@ -50,3 +54,80 @@
             <p>© 2021 Copyright: Sequence Creators</p>
         </div>
     </footer>
+    <script>
+    var email = /^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/;
+    function valid()
+
+   
+{
+    if(document.getElementById("input1").value=="")
+    {
+       document.getElementById("input1").style="border:2px solid red"; 
+       document.getElementById("input1").style="box-shadow:0px 0px 20px rgb(255, 92, 42)";
+       document.getElementById("span1").style="display:block";
+       document.getElementById("span1").style="color:rgb(173, 40, 0)";
+    }
+    else
+    {
+        document.getElementById("input1").style="border:0px solid red"; 
+       document.getElementById("input1").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
+       document.getElementById("span1").style="display:none";
+    }
+    if(!document.getElementById("input2").value.match(email))
+    {
+       document.getElementById("input2").style="border:2px solid red"; 
+       document.getElementById("input2").style="box-shadow:0px 0px 20px rgb(255, 92, 42)";
+       document.getElementById("span2").style="display:block";
+       document.getElementById("span2").style="color:rgb(173, 40, 0)";
+    }else{
+        document.getElementById("input2").style="border:0px solid red"; 
+       document.getElementById("input2").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
+       document.getElementById("span2").style="display:none";
+    }
+    if(document.getElementById("input3").value=="")
+    {
+       document.getElementById("input3").style="border:2px solid red"; 
+       document.getElementById("input3").style="box-shadow:0px 0px 20px rgb(255, 92, 42)";
+       document.getElementById("span3").style="display:block";
+       document.getElementById("span3").style="color:rgb(173, 40, 0)";
+    }else{
+        document.getElementById("input3").style="border:0px solid red"; 
+       document.getElementById("input3").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
+       document.getElementById("span3").style="display:none";
+    }
+    if(!(document.getElementById("input1").value=="") && (document.getElementById("input2").value.match(email)) && !(document.getElementById("input3").value=="") )
+    {
+        document.getElementById("frm").action="form.php";
+    }
+}
+function validout()
+{
+    if(document.getElementById("input1").value=="")
+    {
+       document.getElementById("input1").style="border:0px solid red"; 
+       document.getElementById("input1").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
+       document.getElementById("span1").style="display:none";
+       
+    }
+}
+function validout2()
+{
+    if(document.getElementById("input2").value=="")
+    {
+       document.getElementById("input2").style="border:0px solid red"; 
+       document.getElementById("input2").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
+       document.getElementById("span2").style="display:none";
+       
+    }
+}
+function validout3()
+{
+    if(document.getElementById("input2").value=="")
+    {
+        document.getElementById("input3").style="border:0px solid red"; 
+       document.getElementById("input3").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
+       document.getElementById("span3").style="display:none";
+       
+    }
+}
+</script>
