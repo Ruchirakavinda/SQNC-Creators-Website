@@ -1,4 +1,4 @@
-body{
+body,html{
   font-family: ubuntu !important;
 }
 .abc {
@@ -24,6 +24,7 @@ body{
   font-size: 50px;
   font-weight: 600;
   color: rgb(255, 255, 255);
+  margin-top: 18vh;
 }
 #qoute1{
   color: #30A945;
@@ -48,6 +49,10 @@ body{
 .circle .num{
     align-items: center;
     padding-top: 8px;
+   
+}
+#tittle{
+  font-size: 100px !important;
 }
 
 /*portfolio*/
@@ -126,7 +131,7 @@ body{
   {
   
       background:  white;
-      color: #30A945;
+      color: #1b6327 !important;
       font-weight: 700;
       border: 1px solid  rgb(112, 77, 0);
       text-transform: capitalize;
@@ -145,7 +150,7 @@ body{
   {
   
       background:  white;
-      color: black;
+      
       border: 1px solid white;
   }
   
@@ -190,9 +195,6 @@ body{
     filter: grayscale(100%);
     cursor: pointer;
 }
- 
-
-
 .social{
     color: rgb(255, 255, 255); 
     padding-top: 5px;
@@ -212,7 +214,6 @@ body{
   filter: grayscale(0%);
 	transition: 0.6s;
 	box-shadow: 0px 3px 20px 0 rgba(0,0,0,0.2) !important;
-	margin-top: -10px;
 }
 .circle2{
   margin: 2px;
@@ -265,17 +266,13 @@ p,li {
 
 
 .section-intro {
-  height: auto;
+  height: 600px;
   background: linear-gradient(#00000083, rgba(0, 0, 0, 0.527)),
     url("../images/wd.jpg");
   background-position: center;
-  background-size: cover;
-  display: flex;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
   background-attachment: fixed;
-  padding: 15% 5% 12% 5%;
+  background-size: cover;
+  margin-top: 0;
 }
 .section-intro-title {
   font-size: 4em;

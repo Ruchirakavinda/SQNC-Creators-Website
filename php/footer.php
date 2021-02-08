@@ -58,7 +58,7 @@
                       </form>
                 </div>
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">
-                    <p><img id="Footer-Img" src="../images/Footer-Image.png"></p>
+                    <p><img id="Footer-Img" src="..."></p>
                 </div>
             </div>
         </div>

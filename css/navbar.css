@@ -27,19 +27,19 @@ nav{
     margin-right:15px;
 }
 
-.nav-link{
+.nav-hover{
     color: #30a945 !important;
     transition: 1s;
     border-radius: 10px;
 }
-.nav-link:hover{
+.nav-hover:hover{
     color: #ffffff;
     -webkit-text-fill-color:#ffffff;
     background-color: #30a945;
     border-radius: 10px;
 }
 @media screen and (max-width: 768px) {
-    .nav-link:hover{
+    .nav-hover:hover{
         color: #30a945;
         -webkit-text-fill-color:#30a945;
         background-color: #ffffff;

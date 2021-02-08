@@ -10,10 +10,10 @@
 
     <div class="collapse navbar-collapse justify-content-end navbar-light" id="collapsibleNavbar">
         <ul class="navbar-nav">
-            <li class="nav-item"><a href="./index.php" class="nav-link">Home</a></li>
-            <li class="nav-item"><a href="./about.php" class="nav-link">About</a></li>
-            <li class="nav-item"><a href="./services.php" class="nav-link">Services</a></li>
-            <li class="nav-item"><a href="#footer" class="nav-link">Contact Us</a></li> 
+            <li class="nav-item"><a href="./index.php" class="nav-link nav-hover">Home</a></li>
+            <li class="nav-item"><a href="./about.php" class="nav-link nav-hover">About</a></li>
+            <li class="nav-item"><a href="./services.php" class="nav-link nav-hover">Services</a></li>
+            <li class="nav-item"><a href="#footer" class="nav-link nav-hover">Contact Us</a></li> 
         </ul>
     </div>
 </nav>
