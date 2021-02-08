@@ -1,6 +1,21 @@
      
      
      <!-- Footer -->
+     <div>
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+      viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+      <defs>
+      <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+      </defs>
+      <g class="parallax">
+      <use xlink:href="#gentle-wave" x="48" y="0" fill="#30a94456" />
+      <use xlink:href="#gentle-wave" x="48" y="3" fill="#30a94456"/>
+      <use xlink:href="#gentle-wave" x="48" y="5" fill="#30A945" />
+      <use xlink:href="#gentle-wave" x="48" y="7" fill="#30a94456" />
+      </g>
+      </svg>
+      </div>
+</div>
      <div class="head" id="footer">
 
     <!-- </div>
@@ -58,7 +73,7 @@
                       </form>
                 </div>
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">
-                    <p><img id="Footer-Img" src="..."></p>
+                    <img class="img-fluid mx-auto mt-5"  src="../images/footer2.png" style="width:500px">
                 </div>
             </div>
         </div>

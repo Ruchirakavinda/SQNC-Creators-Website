@@ -115,7 +115,7 @@ body{
 .buttoncover
 {
   width: 200px;
-  background-color: rgba(0, 165, 27, 0.712);
+  background-color: #30A945;
   color: rgba(255, 255, 255, 0.733);
   border-radius: 20px;
   /*border-left: 5px solid rgba(255, 255, 255, 0.61);
@@ -147,6 +147,17 @@ body{
   box-shadow: 15px 10px 15px rgba(0, 0, 0, 0.479);
   
 }
+@media only screen and (min-width : 1540px) {
+  .vd1
+{
+  max-width: 90%;
+  margin-bottom: -10%;
+  box-shadow: 15px 10px 15px rgba(0, 0, 0, 0.479);
+  
+}
+
+}
+
 @media only screen and (max-width : 1200px) {
 
   .vd1
@@ -458,3 +469,25 @@ color: orange;
   transition: 0.5s;
   border: 2px solid rgba(0, 119, 36, 0.76);
 }
+.coverslide
+{
+  min-height: 150px;
+}
+@media only screen and (max-width : 992px) {
+  .buttonfeed
+  {
+    width: 200px;
+    background-color: rgba(0, 126, 21, 0.836);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: 2px solid rgb(0, 153, 13);
+    transition: 1s;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 70px;
+   
+  
+    
+  }
+}
+
