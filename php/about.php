@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../css/about.css">
     <script src="../about.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/footer.css">
     
     
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -22,7 +22,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 
-    <!--scroll animation-->
+<!--scroll animation-->
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <!--scroll animation-->
@@ -363,12 +363,12 @@
 
 <!--team parallex-->
 
-<div class="container-fluid" style="background:linear-gradient(#000000b7, rgba(0, 0, 0, 0.719)), url('../images/ui.webp'); width: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;  height: auto; padding: 5% 0% 5% 6%;background-attachment: fixed;text-align: center;" >
+<div class="container-fluid" style="background:linear-gradient(#000000b7, rgba(0, 0, 0, 0.719)), url('../images/ui.webp'); width: 100%; background-position: center; background-repeat: no-repeat; background-size: cover;  height: auto; padding: 5% 5% 5% 6%;background-attachment: fixed;text-align: center;" >
     <div class="container mx-auto" style="text-align: center;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
         
               <p style=" color: #26b83f;font-weight: bold;font-size: 6vh;"  >Our Team</p><br>
               
-              <p style="color: rgba(255, 255, 255, 0.877);" class="cont" >
+              <p class="ourpara" style="color: rgba(255, 255, 255, 0.877);" class="cont" >
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa  recusandae molestiae! Veritatis amet optio officiis maxime, dolorem aut rerum at distinctio mollitia necessitatibus? Tenetur odit libero nostrum nobis fugiat.
               </p>
              
@@ -388,7 +388,7 @@
                             <h4 class="pt-3" style="color: #30A945;">
                                 Thilina Pathirage
                             </h4>
-                            <p>CEO</p>
+                            <p class="posi">CEO</p>
                             <p>
                                 <div class="row">
                                     <div class="mx-auto">
@@ -422,7 +422,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Avishka Sooriyapperuma
                         </h5>
-                        <p>Co-founder / Director / Developer</p>
+                        <p class="posi">Co-founder / Director / Developer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -450,7 +450,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Ishan Kodippiliarachchi
                         </h5>
-                        <p>Co-founder / Director / Developer</p>
+                        <p class="posi">Co-founder / Director / Developer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -478,7 +478,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Matheesha Mahaliyana
                         </h5>
-                        <p>Co-founder / Director / Developer</p>
+                        <p class="posi">Co-founder / Director / Developer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -509,7 +509,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Ruchira Kavinda
                         </h5>
-                        <p>Co-founder / Director / Developer</p>
+                        <p class="posi">Co-founder / Director / Developer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -537,7 +537,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Sisara Nawaratne
                         </h5>
-                        <p>Co-founder / Director / Designer</p>
+                        <p> class="posi"Co-founder / Director / Designer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -565,7 +565,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Hiruna Gayashan
                         </h5>
-                        <p>Co-founder / Director / Developer</p>
+                        <p class="posi">Co-founder / Director / Developer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -596,7 +596,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Developer
                         </h5>
-                        <p>Co-founder / Director / Developer</p>
+                        <p class="posi">Co-founder / Director / Developer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -624,7 +624,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Developer
                         </h5>
-                        <p>Co-founder / Director / Developer</p>
+                        <p class="posi">Co-founder / Director / Developer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -652,7 +652,7 @@
                         <h5 class="pt-3" style="color: #30A945;">
                             Developer
                         </h5>
-                        <p>Co-founder / Director / Developer</p>
+                        <p class="posi">Co-founder / Director / Developer</p>
                         <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -688,6 +688,12 @@
   AOS.init();
 </script>
 <!--scroll animation-->
+
+
+<?php
+  include_once 'footer.php';
+?>
+
 
 </body>
 </html>
