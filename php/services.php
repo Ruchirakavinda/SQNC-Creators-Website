@@ -42,7 +42,8 @@
         <p class="mt-5 heading ml-5" data-aos="fade-right" data-aos-delay="400" data-aos-duration="1000"><span class="slog3">Sequence Creaters</span><br> OUR SERVICES <br></p>
         <div class="line ml-5" id="line" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000"></div>
         <br>
-        <p class="sub ml-5 mb-5" style="margin-bottom: 100px;" data-aos="fade-right" data-aos-delay="600" data-aos-duration="1000"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti odit, excepturi in corporis repudiandae laborum quisquam quasi voluptate, incidunt, vitae eveniet voluptatum commodi iste totam numquam maxime natus quis praesentium.</p>
+        <p class="sub ml-5 mb-5" style="margin-bottom: 100px;" data-aos="fade-right" data-aos-delay="600" data-aos-duration="1000"> Customized designs and development processes just to furnish the imaginations of our clients. We always endeavor to bring forth only the perfect end products for you. The wide array of services offered allow our clients to achieve everything they need, at the same place.
+</p>
       </div>
     </div>
   </div>
