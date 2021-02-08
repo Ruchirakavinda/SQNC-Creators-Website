@@ -162,15 +162,15 @@ Sequence is a team of tech enthusiasts dedicated to providing you with the best 
       </h1><br>
       <p class="cont" style="color: rgba(255, 255, 255, 0.589);" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
         
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sunt, fugiat praesentium aspernatur, natus dolorem necessitatibus laborum doloremque a
+      We, Sequence Creators are determined to be the best developers and designers that you are ever going to work with. We are
 
         <div type="none" class="cont" style=" color: rgba(255, 255, 255, 0.589);" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
           
-        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Fast and Reliable Service<br>
-        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; laborum doloremque<br>
-        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; dolorem necessitatibus<br>
-        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Lorem ipsum dolor<br>
-        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; dolorem necessitatibus<br>
+        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Dedicated<br>
+        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Hard-Working<br>
+        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Determined<br>
+        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Fast and Reliable<br>
+        <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Maintain Standards<br>
 
         </div>
       </p>

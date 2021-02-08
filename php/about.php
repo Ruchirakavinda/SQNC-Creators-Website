@@ -388,7 +388,7 @@
                             <h5 class="pt-3" style="color: #30A945;">
                                 Ruchira Kavinda
                             </h5>
-                            <p class="posi">Head of Development Officer</p>
+                            <p class="posi">Head of Development </p>
                             <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -416,7 +416,7 @@
                             <h5 class="pt-3" style="color: #30A945;">
                                 Ishan Kodippiliarachchi
                             </h5>
-                            <p class="posi">Head of Designing Officer</p>
+                            <p class="posi">Head of Designing </p>
                             <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -444,7 +444,7 @@
                             <h5 class="pt-3" style="color: #30A945;">
                                 Avishka Sooriyapperuma
                             </h5>
-                            <p class="posi">Head of Marketing Officer</p>
+                            <p class="posi">Head of Marketing </p>
                             <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -475,7 +475,7 @@
                             <h5 class="pt-3" style="color: #30A945;">
                                 Matheesha Nayanajith
                             </h5>
-                            <p class="posi">Head of Financial Officer </p>
+                            <p class="posi">Head of Finance  </p>
                             <p>
                             <div class="row">
                                 <div class="mx-auto">
@@ -503,7 +503,7 @@
                             <h5 class="pt-3" style="color: #30A945;">
                                 Nishani Dissanayake
                             </h5>
-                            <p class="posi">Head Content Writing Officer</p>
+                            <p class="posi">Head of Content Writing </p>
                             <p>
                             <div class="row">
                                 <div class="mx-auto">
