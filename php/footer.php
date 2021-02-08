@@ -55,17 +55,17 @@
                     
                         <div class="mb-3">
                           <label for="exampleInputEmail1" class="form-label">Name</label>
-                          <input name="namee" type="text" class="form-control" id="input1" placeholder="Enter name here" aria-describedby="emailHelp" onclick="validout()">
+                          <input name="namee" type="text" class="form-control" id="input1" placeholder="Enter name here" aria-describedby="emailHelp" required>
                           <span style="color:rgb(173, 40, 0);display:none;" id="span1"> ! Please Enter The User Name</span>
                         </div>
                         <div class="mb-3">
                             <label for="exampleInputEmail1" class="form-label">Email address</label>
-                            <input name="email" type="text" class="form-control" id="input2" placeholder="example@abc.com" aria-describedby="emailHelp" onclick="validout2()">
+                            <input name="email" type="email" class="form-control" id="input2" placeholder="example@abc.com" aria-describedby="emailHelp" required>
                             <span style="color:rgb(173, 40, 0);display:none;" id="span2"> ! Please Enter Valid E mail Address</span>
                           </div>
                         <div class = "form-group">
                         <label for = "msg" >Message</label>
-                        <textarea name="msg" class = "form-control" id="input3" rows = "3" placeholder = "Type your message here" onclick="validout3()"></textarea>
+                        <textarea name="msg" class = "form-control" id="input3" rows = "3" placeholder = "Type your message here" required></textarea>
                         <span style="color:rgb(173, 40, 0);display:none;" id="span3"> ! Please Enter The Your Message</span>
                         </div>
                         <!--div name="sent" type="submit" class=" btn btn-outline-light mt-3 mb-3" onclick="valid()" >Submit</div-->
