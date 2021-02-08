@@ -191,6 +191,8 @@ body{
     cursor: pointer;
 }
  
+
+
 .social{
     color: rgb(255, 255, 255); 
     padding-top: 5px;
@@ -243,10 +245,9 @@ section {
     padding: 50px 0;
   }
 }
-p,
-li {
+p,li {
   color: #808080;
-  font-size: 0.9em;
+  
 }
 .carousel-item {
   position: relative;
@@ -371,8 +372,9 @@ svg {
 	margin-bottom: 0;
   }
   
-  p {
+  p.ourpara {
 	max-width: 1000px;
+ 
   }
   
   .section {
@@ -390,7 +392,7 @@ svg {
 	letter-spacing: 2px;
 	font-size:48px;
   }
-  p {
+  p.posi {
 	font-family: 'Lato', sans-serif;
 	letter-spacing: 1px;
 	font-size:14px;
