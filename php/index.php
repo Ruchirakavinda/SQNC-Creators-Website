@@ -147,7 +147,7 @@ Sequence is a team of tech enthusiasts dedicated to providing you with the best 
   
 
   <br><br>
-  <div class="topic" style="color: rgba(255, 255, 255, 0.856);font-weight: 700;font-size: 62px;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000"> Dream &nbsp;&#9679;&nbsp; Design&nbsp; &#9679; &nbsp;Develop  </div>
+  <div class="topic" style="color: rgba(255, 255, 255, 0.856);font-weight: 700;font-size: 62px;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">Every &nbsp;  Pixel &nbsp;   Matters </div>
   
 </div>
 

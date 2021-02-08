@@ -28,16 +28,16 @@
       <div class="form">
         
         <div class="contact-info" >
-          <h1 class="" style=" font-family: 'Ubuntu';  color: #30A945;" data-aos="fade-right" data-aos-delay="400" data-aos-duration="1000">Don't miss updates from us!</h1>
+          <h1 class="" style=" font-family: 'Ubuntu';  color: #30A945;" data-aos="fade-right" data-aos-delay="400" data-aos-duration="1000">It was a Pleasure Working with You!</h1>
           <p class="text" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-            dolorum adipisci recusandae praesentium dicta!
+          No matter the content, every review is a special review because 
+          it always comes from a special person.
           </p>
 
         
 
           <div class="social-media" data-aos="fade-right" data-aos-delay="600" data-aos-duration="1000">
-            <p>Give Feed Back :</p>
+            <p>Reach Us Via:</p>
             <div class="social-icons">
               <a href="#">
                 <i class="fab fa-facebook-f"></i>
@@ -62,33 +62,40 @@
           <form action="feedback.php" method="POST" autocomplete="off" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000" id="frm1">
             <h3 class="title">FeedBack</h3>
             <div class="input-container">
-              <input type="text" name="uname" class="input" placeholder="User Name" id="input1" onclick="validout()" />
+              <input type="text" name="uname" class="input" placeholder="Name" id="input1"  required />
               <label for=""></label>
               <span>Username</span>
             </div>
             <span style="color:rgb(173, 40, 0);display:none;" id="span1"> ! Please Enter The User Name</span>
             <div class="input-container">
-              <input type="email" name="email" class="input" placeholder="Email" id="input2" onclick="validout2()"/>
+              <input type="email" name="email" class="input" placeholder="Email" id="input2" required/>
               <label for=""></label>
               <span>Email</span>
             </div>
             <span style="color:rgb(173, 40, 0);display:none;" id="span2"> ! Please Enter Valid Email Address</span>
             <div class="input-container">
-              <input type="tel" name="phone" class="input" placeholder="Phone" id="input3" onclick="validout3()"/>
+              <input type="tel" name="phone" class="input" placeholder="Phone" id="input3"/>
               <label for=""></label>
               <span>Phone</span>
             </div>
             <span style="color:rgb(173, 40, 0);display:none;" id="span3"> ! Please Enter Valid Phone Number</span>
             
             <div class="input-container textarea">
-              <textarea name="msg" class="input" placeholder="FeedBack" id="input4" onclick="validout4()"></textarea>
+              <textarea name="msg" class="input" placeholder="FeedBack" id="input4" required></textarea>
               <label for=""></label>
               <span>Message</span>
             </div>
             <span style="color:rgb(173, 40, 0);display:none;" id="span4"> ! Please Enter Your FeedBack</span>
             
             <!-- <h1 onclick="valid()">SEND</h1> -->
-            <input name="sent" type="submit" value="POST" class="btn" onclick="valid()">
+            <input name="sent" type="submit" value="POST" class="btn" >
+            <input type="button" class="btn" value="Go back" onclick="goback();">
+            <script>
+             function goback()
+             {
+              window.location.href='index.php';
+             }
+            </script>
           </form>
         </div>
       </div>
@@ -103,105 +110,6 @@
 <!--scroll animation-->
 
 
-<script>
-    var email = /^[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$/;
-  
-function valid()
-{
-    if(document.getElementById("input1").value=="")
-    {
-       document.getElementById("input1").style="border:2px solid red"; 
-       document.getElementById("input1").style="box-shadow:0px 0px 20px rgb(255, 92, 42)";
-       document.getElementById("span1").style="display:block";
-       document.getElementById("span1").style="color:rgb(173, 40, 0)";
-    }
-    else
-    {
-        document.getElementById("input1").style="border:0px solid red"; 
-       document.getElementById("input1").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
-       document.getElementById("span1").style="display:none";
-    }
-    if(!document.getElementById("input2").value.match(email))
-    {
-       document.getElementById("input2").style="border:2px solid red"; 
-       document.getElementById("input2").style="box-shadow:0px 0px 20px rgb(255, 92, 42)";
-       document.getElementById("span2").style="display:block";
-       document.getElementById("span2").style="color:rgb(173, 40, 0)";
-    }else{
-        document.getElementById("input2").style="border:0px solid red"; 
-       document.getElementById("input2").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
-       document.getElementById("span2").style="display:none";
-    }
-    if(document.getElementById("input3").value.length<10 || isNaN(document.getElementById("input3").value))
-    {
-       document.getElementById("input3").style="border:2px solid red"; 
-       document.getElementById("input3").style="box-shadow:0px 0px 20px rgb(255, 92, 42)";
-       document.getElementById("span3").style="display:block";
-       document.getElementById("span3").style="color:rgb(173, 40, 0)";
-    }else{
-        document.getElementById("input3").style="border:0px solid red"; 
-       document.getElementById("input3").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
-       document.getElementById("span3").style="display:none";
-    }
-    if(document.getElementById("input4").value=="")
-    {
-       document.getElementById("input4").style="border:2px solid red"; 
-       document.getElementById("input4").style="box-shadow:0px 0px 20px rgb(255, 92, 42)";
-       document.getElementById("span4").style="display:block";
-       document.getElementById("span4").style="color:rgb(173, 40, 0)";
-    }else{
-        document.getElementById("input4").style="border:0px solid red"; 
-       document.getElementById("input4").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
-       document.getElementById("span4").style="display:none";
-    }
 
-
-
-    if(!(document.getElementById("input1").value=="") && (document.getElementById("input2").value.match(email)) && !(document.getElementById("input3").value.length<10 || isNaN(document.getElementById("input3").value)) && (document.getElementById("input4").value==""))
-    {
-        document.getElementById("frm1").action="index.php";
-    }
-}
-function validout()
-{
-    if(document.getElementById("input1").value=="")
-    {
-       document.getElementById("input1").style="border:0px solid red"; 
-       document.getElementById("input1").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
-       document.getElementById("span1").style="display:none";
-       
-    }
-}
-function validout2()
-{
-    if(document.getElementById("input2").value=="")
-    {
-       document.getElementById("input2").style="border:0px solid red"; 
-       document.getElementById("input2").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
-       document.getElementById("span2").style="display:none";
-       
-    }
-}
-function validout3()
-{
-    if(document.getElementById("input2").value=="")
-    {
-        document.getElementById("input3").style="border:0px solid red"; 
-       document.getElementById("input3").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
-       document.getElementById("span3").style="display:none";
-       
-    }
-}
-function validout4()
-{
-    if(document.getElementById("input2").value=="")
-    {
-      document.getElementById("input4").style="border:0px solid red"; 
-       document.getElementById("input4").style="box-shadow:0px 0px 00px rgb(255, 92, 42)";
-       document.getElementById("span4").style="display:none";
-       
-    }
-}
-</script>
   </body>
 </html>
