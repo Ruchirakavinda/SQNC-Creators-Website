@@ -52,26 +52,37 @@
 
     <div class="col-xl-6 col-sm-12" style="padding-top: 7%;overflow: hidden;" >
       
-      <p class="slog2" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000" ><br>Sequence Creaters<br><span style="font-size: 50px;font-weight: 700;color: rgba(0, 161, 35, 0.877);">We Create The Standards</span></p><br><br>
+      <p class="slog2" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000" ><br>Sequence Creators<br><span style="font-size: 50px;font-weight: 700;color: #30A945;">We Create The Standards</span></p><br><br>
       
       
       <div style="color: rgba(255, 255, 255, 0.767); background-color: rgba(255, 255, 255, 0);padding: 0px; width: 80%;border-left: 5px solid rgba(255, 255, 255, 0);border-right: 5px solid rgba(255, 255, 255, 0);font-weight: 600;border-radius: 20px;padding-left: 10%;" class="" >
         
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel"data-aos="fade-right" data-aos-delay="900" data-aos-duration="1000">
         <div class="carousel-inner" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
-          <div class="carousel-item active" style="transition: 2s;">
-            <h2>UI UX Design 03</h2>
+          <div class="carousel-item active coverslide" style="transition: 2s;">
+            <h2>UI UX Design</h2>
            
-        01 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae cumque similique sint eligendi delectus, labore quia corporis architecto sapiente aliquam et dolores quidem, accusantium provident reprehenderit, eius autem sit praesentium!
+            We create stunning and interactive UI designs with maximum User Experience to provide you the best quality designs. We are a well-qualified team of designers dedicated to meet your expectations and imaginations.
           </div>
-          <div class="carousel-item" style="transition: 2s;">
-            <h2>UI UX Design 03</h2>
-            02 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae cumque similique sint eligendi delectus, labore quia corporis architecto sapiente aliquam et dolores quidem, accusantium provident reprehenderit, eius autem sit praesentium!
-          </div>
-          <div class="carousel-item" style="transition: 2s;">
-            <h2>UI UX Design 03</h2>
+          <div class="carousel-item coverslide" style="transition: 2s;">
+            <h2>Web Development</h2>
             
-        03 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae cumque similique sint eligendi delectus, labore quia corporis architecto sapiente aliquam et dolores quidem, accusantium provident reprehenderit, eius autem sit praesentium!
+Need a medium to showcase your products? Our expertise in web development will improve your business through an impressive website. We build highly guaranteed and well-maintained websites with the explicit purpose of supporting your marketing efforts.
+
+          </div>
+          <div class="carousel-item coverslide" style="transition: 2s;">
+            <h2>Graphic Designing</h2>
+            
+            
+From Logo Designs, Illustration, and Flyer Designs to Video Editing, we are ready to meet the standards of your expectation. Our well-trained and passionate designers will work miracles on your dream designs to make them come true.
+
+          </div>
+          <div class="carousel-item coverslide" style="transition: 2s;">
+            <h2>Content Writing</h2>
+            
+A panel of dedicated and hardworking individuals, ready to supply you with the best quality and unique content. Copywriting, Content Writing, Creative Writing, Blog Content, and much more options right here at the same place. 
+
+
           </div>
         </div>
         <br><br>
@@ -110,12 +121,10 @@
 <div class="row " style="padding-top: 50px;">
 <div class="col-xl-6 col-sm-12" style="padding-left: 5%;" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000" ><br><br>
 <h1 class="topic">
-  Welcome SQNC (Pvt) Ltd
+  Welcome to Sequence Creators
 </h1><br>
 <p class="cont" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-  We are one of the industry pioneers in providing the highest quality ERP solutions, HRM software, and Web solutions. We are serving reputed companies, industries, and individuals by providing adequate and efficient IT infrastructure and software solutions.
-
-  We are contributing to the sustainable growth of numerous businesses, both local and international, providing effective and efficient IT infrastructure and software solutions.
+Sequence is a team of tech enthusiasts dedicated to providing you with the best web solutions and designs. Join hands with us to experience quality services at the best rates. We provide you with a wide array of services to meet your expectations using the latest technology. Sequence is dedicated to giving you the best customer service with stunning solutions for your problems. So, feel free to contact us. We create the standards! 
 </p>
 
 <br>
@@ -177,7 +186,7 @@
       Responsive Web Developing
     </h1><br>
     <p class="mx-auto cont" style="width: 70%;" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium neque nam sunt fuga sed perspiciatis rem excepturi expedita id itaque. A dolorum asperiores commodi inventore incidunt, vitae repudiandae error quam. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique, assumenda labore quis porro quisquam veniam fuga accusamus! Odit quam neque, aut consequuntur dolor eos ullam asperiores enim quidem blanditiis consectetur?
+    Business-oriented ready-made website templates to meet customer requirements. And also, fully customized UI and web design and development. Bringing you the best out of the latest trends of website building, we are dedicated to coming up with the best possible solutions to meet your standards. From building fully responsive websites, creating the graphics and contents, to purchasing the domains and web-hosting, we provide you everything you need at the same place. 
       <br>
       <p data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000"><a href="services.php" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
     </p>
@@ -196,8 +205,8 @@
     
   </div>
   
-    <div class="col-xl-6 col-sm-12" style="padding: 0px;text-align: right; overflow: hidden;" >
-<img src="../images/uiux.png" alt="" class="img-fluid "data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" >
+    <div class="col-xl-6 col-sm-12" style="padding-top: 3%;text-align: right; overflow: hidden;" >
+<img src="../images/ui.png" alt="" class="img-fluid "data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000" >
     </div>
 </div>
 </div>
@@ -210,16 +219,15 @@
       <h1 class="topic" style="color: rgba(37, 37, 37, 0.623);" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">Computer Graphic <br> Designs</h1><br><br>
      
       <div class="row" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-        <div class="col-6 cont" style="font-size: 20px;color: rgb(0, 119, 6);font-weight: 700;">
-           Logo Design
-          <br><p class="cont">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+        <div class="col-12 cont" style="font-size: 20px;color: rgb(0, 119, 6);font-weight: 700;">
+          <p class="cont">
+          Our graphic designers will analyze the customers’ target to provide the perfect solution to enhance their business with graphic designs and creative designs using visual concepts. Ranging from logo designs, flyer designs, video editing, and video animating, we are committed to bringing you the best of graphic designs in a creative way that fits and conforms to your standards.
           </p></div>
-        <div class="col-6 cont" style="font-size: 20px;color: rgb(0, 119, 6);font-weight: 700;">
+        <!--div class="col-6 cont" style="font-size: 20px;color: rgb(0, 119, 6);font-weight: 700;">
           lorem ipsum 
           <br><p class="cont">
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-          </p></div>
+          </p></div-->
       </div><br>
       <p data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000"><a href="services.php" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
       <br>
@@ -283,7 +291,7 @@
 </div>
 </div>
  </div>
-<div class="container-fluid" style="padding: 3% 5% 8% 5%;border-radius:100% 0% 100% 0% / 100% 100% 0% 0%  ;background-color: rgba(0, 0, 0, 0.055);">
+<div class="container-fluid" style="padding: 3% 5% 8% 5%;border-radius:100% 0% 100% 0% / 100% 100% 0% 0%  ;background-color: rgba(0, 0, 0, 0.055);margin-bottom:-80px">
   <div class="row" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000" >
     <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8" >
       <h1 class="topic" style="font-size: 5vh;" >Leave a feedback about our work . . .</h1>
