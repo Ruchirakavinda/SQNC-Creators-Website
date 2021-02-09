@@ -225,19 +225,19 @@
                                         <div class="row">
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/wd.jpg" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/potfimage-01.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/wd.jpg" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/potfimage-01.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/wd.jpg" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/potfimage-01.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
@@ -264,19 +264,19 @@
                                         <div class="row">
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/ui.webp" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/uiux2.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/ui.webp" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/potfimage-01.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/ui.webp" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/potfimage-01.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
@@ -300,19 +300,19 @@
                                         <div class="row">
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/web1.jpg" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/potf01.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/web1.jpg" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/potf02.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
 
                                             <div class="col-lg-4 col-md-4 mb-3 mb-lg-0  " data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/web1.jpg" alt="" class="img-fulid" style="height: 100%;"></a>
+                                                <div class="hover hover-3 text-white rounded "><a href="#"><img src="../images/potf03.png" alt="" class="img-fulid" style="height: 100%;"></a>
 
                                                 </div>
                                             </div>
