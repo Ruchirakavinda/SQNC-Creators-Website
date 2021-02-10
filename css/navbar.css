@@ -1,62 +1,49 @@
-html,body{
-    font-family: ubuntu;
-    /*background-image: url("back.jpg");*/
-    background-size: cover;
-    scroll-behavior: smooth;
-    background-attachment: fixed;
-    z-index: -1;
+html,
+body {
+  font-family: ubuntu;
+  /*background-image: url("back.jpg");*/
+  background-size: cover;
+  scroll-behavior: smooth;
+  background-attachment: fixed;
+  z-index: -1;
 }
 
-nav{
-    box-shadow: 0px 3px 20px 0 rgba(0,0,0,0.2);
-    background-color: #ffffff !important;
-    padding-left: 20px;
-    min-height: 60px;
-    font-size: large;
-    font-weight: bold;
-    border-radius: 10px;
-    margin-top: 10px !important;
-    transition: 0.7s;
-    margin: auto;
-    transition: 0.5s;
-    width: 98.5%;
+nav {
+  box-shadow: 0px 3px 20px 0 rgba(0, 0, 0, 0.2);
+  background-color: #ffffff !important;
+  padding-left: 20px;
+  min-height: 60px;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-top: 10px !important;
+  transition: 0.7s;
+  margin: auto;
+  transition: 0.5s;
+  width: 98.5%;
 }
 
-.nav-item{
-    margin-left:15px;
-    margin-right:15px;
+.nabt {
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
-.nav-hover{
-    color: #30a945 !important;
-    transition: 1s;
-    border-radius: 10px;
+.nav-hover {
+  color: #30a945 !important;
+  transition: 1s;
+  border-radius: 10px;
 }
-.nav-hover:hover{
-    color: #ffffff;
-    -webkit-text-fill-color:#ffffff;
-    background-color: #30a945;
-    border-radius: 10px;
+.nav-hover:hover {
+  color: #ffffff;
+  -webkit-text-fill-color: #ffffff;
+  background-color: #30a945;
+  border-radius: 10px;
 }
 @media screen and (max-width: 768px) {
-    .nav-hover:hover{
-        color: #30a945;
-        -webkit-text-fill-color:#30a945;
-        background-color: #ffffff;
-        border-radius: 0px;
-    }
+  .nav-hover:hover {
+    color: #30a945;
+    -webkit-text-fill-color: #30a945;
+    background-color: #ffffff;
+    border-radius: 0px;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+}
