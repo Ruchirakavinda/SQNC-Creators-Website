@@ -8,8 +8,11 @@
   <link rel="stylesheet" href="../css/services.css">
   <script src="../js/services.js"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" type="text/css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+  <!--ubuntu font-->
+  <link rel="stylesheet"   href="https://fonts.googleapis.com/css?family=Ubuntu"> 
+  
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
@@ -37,7 +40,7 @@
     <?php
     include_once 'navigation.php';
     ?>
-    <div class="row">
+    <div class="row servicesrow">
       <div class="col-sm-5 col-md-5 col-lg-5 col-xl-5 ">
         <p class="mt-5 heading ml-5" data-aos="fade-right" data-aos-delay="400" data-aos-duration="1000"><span class="slog3">Sequence Creaters</span><br> OUR SERVICES <br></p>
         <div class="line ml-5" id="line" data-aos="fade-right" data-aos-delay="500" data-aos-duration="1000"></div>
@@ -60,7 +63,7 @@
               <h4 class="card-title">UI/UX Design</h4>
             </center><br>
             <center>
-              <p>UI design is not just a design. It is the mirror of the final product.</p>
+              <p class="spara">UI design is not just a design. It is the mirror of the final product.</p>
             </center>
 
             <center> <button class="btn btn-success  mt-2" onclick="mdl1()">Learn more<svg xmlns='http://www.w3.org/2000/svg' class='ionicon' viewBox='1 1 512 512' style="width: 10%; height:20px">
@@ -78,7 +81,7 @@
               <h4 class="card-title">Web Development</h4>
             </center><br>
             <center>
-              <p>A good website is a good employee that promotes you day and night.</p>
+              <p class="spara">A good website is a good employee that promotes you day and night.</p>
             </center>
             <center> <button class="btn btn-success  mt-2" onclick="mdl2();">Learn more<svg xmlns='http://www.w3.org/2000/svg' class='ionicon' viewBox='1 1 512 512' style="width: 10%; height:20px">
                   <title>Arrow Forward</title>
@@ -97,7 +100,7 @@
               <h4 class="card-title">Graphic Designing</h4>
             </center><br>
             <center>
-              <p>Watch your imaginations come true in colors and shapes.</p>
+              <p class="spara">Watch your imaginations come true in colors and shapes.</p>
             </center>
             <center> <button class="btn btn-success mt-2" onclick="mdl3();">Learn more<svg xmlns='http://www.w3.org/2000/svg' class='ionicon' viewBox='1 1 512 512' style="width: 10%; height:20px">
                   <title>Arrow Forward</title>
@@ -114,7 +117,7 @@
               <h4 class="card-title">Content Writing</h4>
             </center><br>
             <center>
-              <p>Good content is not just some words. It is the language of wisdom. </p>
+              <p class="spara">Good content is not just some words. It is the language of wisdom. </p>
             </center>
             <center> <button class="btn btn-success  mt-2" onclick="mdl4()">Learn more <svg xmlns='http://www.w3.org/2000/svg' class='ionicon' viewBox='1 1 512 512' style="width: 10%; height:20px">
                   <title>Arrow Forward</title>

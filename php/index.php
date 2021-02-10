@@ -8,6 +8,9 @@
   <title>Home SQNC</title>
   <link rel="icon" href="../images/title-icon.png" type="image/x-icon">
 
+  <!--ubuntu font-->
+  <link rel="stylesheet"   href="https://fonts.googleapis.com/css?family=Ubuntu">
+
 
   <!--navbar css-->
   <link rel="stylesheet" href="../css/navbar.css">

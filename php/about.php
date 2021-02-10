@@ -17,6 +17,9 @@
     <link rel="stylesheet" href="../css/footer.css">
     <link rel="stylesheet" href="../css/navbar.css">
 
+    <!--ubuntu font-->
+    <link rel="stylesheet"   href="https://fonts.googleapis.com/css?family=Ubuntu">
+
     <!--Navbar js-->
     <script src="../js/navbar.js"></script>
 

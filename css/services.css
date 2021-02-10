@@ -35,7 +35,7 @@ img {
   color: rgb(255, 255, 255);
   font-size: 6vh;
   font-weight: 500;
-  padding-top: 10%;
+  
 }
 .sub {
   color: white;
@@ -106,4 +106,10 @@ h5 {
     min-height:60px;
   }
  
+}
+.servicesrow{
+  margin: 0px !important;
+}
+.spara{
+  min-height: 45px;
 }
