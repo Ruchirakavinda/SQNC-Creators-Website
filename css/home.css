@@ -164,7 +164,8 @@ body {
 .vd1 {
   max-width: 90%;
   margin-bottom: -50%;
-  box-shadow: 15px 10px 15px rgba(0, 0, 0, 0.479);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.288);
+  border-radius: 10px;
 }
 @media only screen and (min-width: 1540px) {
   .vd1 {
@@ -229,7 +230,7 @@ body {
   margin-top: 80px;
   margin-left: -70px;
   border-radius: 20px;
-  width: 100%;
+  width: 105%;
 }
 
 .img1 {
@@ -459,4 +460,91 @@ body {
     text-align: center;
     margin-bottom: 70px;
   }
+}
+
+.mockdiv1
+{
+  text-align: center;
+  padding-top: 2%;
+  overflow: hidden;
+}
+.mock1img
+{
+  width: 100%;  opacity: 0.9;margin-top: 10px;
+}
+.weldiv1
+{
+  padding-top: 50px !important;
+}
+.weldiv2
+{
+  padding-left: 5% !important;
+}
+.slog1
+{
+  color: rgba(255, 255, 255, 0.856);
+  font-weight: 700;font-size: 62px;
+}
+.offer
+{
+  padding:5% 5% 5% 5% !important;
+  background-color: rgb(68, 68, 68) !important;
+}
+.offercont
+{
+  color: rgba(255, 255, 255, 0.589);
+}
+.offercontlist
+{
+  color: rgba(255, 255, 255, 0.589);
+}
+.respo
+{
+  border-radius:100% 0% 100% 0% / 100% 100% 0% 0%  ;
+  background-color: rgba(0, 0, 0, 0.068);
+  width: 100%; 
+  height: auto;
+  text-align: center;
+  padding: 50px 0px 50px 0px;
+}
+.ui
+{
+  padding:10% 5% 8% 5% !important;
+}
+.uitopic
+{
+  color: rgba(255, 255, 255, 0.623);
+  font-size: 45px;
+}
+.uiimgdiv
+{
+  padding-top: 3%;
+  text-align: right; 
+  overflow: hidden;
+}
+.graphic2
+{
+  padding:3% 5% 0% 10%;
+  overflow: hidden;
+}
+.graphictopic
+{
+  color: rgba(37, 37, 37, 0.623);
+}
+.graphiccont
+{
+  font-size: 20px;
+  color: rgb(0, 119, 6);
+  font-weight: 700;
+}
+.testo
+{
+  color: rgba(255, 255, 255, 0.87);
+}
+.feedcurve
+{
+  padding: 3% 5% 8% 5%;
+  border-radius:100% 0% 100% 0% / 100% 100% 0% 0%  ;
+  background-color: rgba(0, 0, 0, 0.055);
+  margin-bottom:-80px
 }

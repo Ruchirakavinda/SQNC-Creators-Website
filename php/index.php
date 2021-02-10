@@ -91,24 +91,19 @@
               </div>
             </div>
             <br><br>
-
             <!--Checkitout button-->
             <a href="about.php" style="text-decoration: none;">
               <div class="buttoncover">
                 Check It Out
               </div>
             </a>
-
           </div>
         </div>
-
       </div>
       <!--Mockup-->
-      <div class="col-xl-6 col-sm-12" style="text-align: center;padding-top: 2%;overflow: hidden;" data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
-        <img src="../images/mock1.png" alt="home first mockup" class="img-fluid mx-auto" style="width: 100%;  opacity: 0.9;margin-top: 10px;">
-
+      <div class="col-xl-6 col-sm-12" class="mockdiv1" data-aos="fade-down" data-aos-delay="400" data-aos-duration="1000">
+        <img src="../images/mock1.png" alt="home first mockup" class="img-fluid mx-auto mock1img">
       </div>
-
     </div>
 
     <div>
@@ -128,8 +123,8 @@
   </div>
 
   <div class="container-fluid">
-    <div class="row " style="padding-top: 50px;">
-      <div class="col-xl-6 col-sm-12" style="padding-left: 5%;" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000"><br><br>
+    <div class="row weldiv1" >
+      <div class="col-xl-6 col-sm-12 weldiv2" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000"><br><br>
         <h1 class="topic">
           Welcome to Sequence Creators
         </h1><br>
@@ -144,39 +139,33 @@
         <hr class="hr1">
         <center>
           <video autoplay muted loop class="vd1 mx-auto">
-            <source src="../images/cover.mp4" type="video/mp4">
+            <source src="../images/vid.mp4" type="video/mp4">
           </video>
         </center>
       </div>
-
     </div>
   </div>
   <svg style="margin-bottom: -20%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
     <path fill="#ffffff" fill-opacity="1" d="M0,32L60,53.3C120,75,240,117,360,117.3C480,117,600,75,720,64C840,53,960,75,1080,96C1200,117,1320,139,1380,149.3L1440,160L1440,0L1380,0C1320,0,1200,0,1080,0C960,0,840,0,720,0C600,0,480,0,360,0C240,0,120,0,60,0L0,0Z"></path>
   </svg>
-
   <div class="back1">
-
-
     <br><br>
-    <div class="topic" style="color: rgba(255, 255, 255, 0.856);font-weight: 700;font-size: 62px;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">Every &nbsp; Pixel &nbsp; Matters </div>
-
+    <div class="topic slog1"  data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">Every &nbsp; Pixel &nbsp; Matters </div>
   </div>
-
   <div class="container-fluid">
     <div class="row">
       <div class="col-xl-6 col-sm-12" style="padding: 0px;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
         <img src="../images/design.jpg" alt="main topic background image" class="img1">
       </div>
-      <div class="col-xl-6 col-sm-12" style="padding:5% 5% 5% 5%;background-color: rgb(68, 68, 68); " data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
+      <div class="col-xl-6 col-sm-12 offer"data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000">
         <h1 class="topic" style="color:rgb(0, 172, 0);" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
           What We Offer
         </h1><br>
-        <p class="cont" style="color: rgba(255, 255, 255, 0.589);" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
+        <p class="cont offercont"  data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
 
           We, Sequence Creators are determined to be the best developers and designers that you are ever going to work with. We are
 
-        <div type="none" class="cont" style=" color: rgba(255, 255, 255, 0.589);" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
+        <div type="none" class="cont offercontlist"  data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
 
           <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Dedicated<br>
           <span style="color: rgb(3, 182, 3);font-weight: 800;font-size: 25px;">&#9998;</span> &nbsp; Hard-Working<br>
@@ -192,7 +181,7 @@
 
   <div class="container-fluid" style="padding: 0px;">
 
-    <div class="container-fluid" style="border-radius:100% 0% 100% 0% / 100% 100% 0% 0%  ;background-color: rgba(0, 0, 0, 0.068);width: 100%; height: auto; text-align: center; padding: 50px 0px 50px 0px;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
+    <div class="container-fluid respo"  data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
       <img class="mx-auto img-fluid" src="../images/res.png" alt="" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1500">
       <h1 class="topic" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
         Responsive Web Developing
@@ -207,8 +196,8 @@
   </div>
   <div class="back2 container-fluid">
     <div class="row">
-      <div class="col-xl-6 col-sm-12" style="padding:10% 5% 8% 5%;">
-        <h1 class="topic" style="color: rgba(255, 255, 255, 0.623); font-size: 45px;" data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
+      <div class="col-xl-6 col-sm-12 ui" >
+        <h1 class="topic uitopic"  data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
           User Interface & User Experience<br> Design
 
         </h1><br>
@@ -217,7 +206,7 @@
 
       </div>
 
-      <div class="col-xl-6 col-sm-12" style="padding-top: 3%;text-align: right; overflow: hidden;">
+      <div class="col-xl-6 col-sm-12 uiimgdiv" >
         <img src="../images/ui.png" alt="" class="img-fluid " data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
       </div>
     </div>
@@ -227,11 +216,11 @@
       <div class="col-xl-6 col-sm-12 graphic">
         <img src="../images/gr.png" alt="" class="img-fluid mx-auto img2 " data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000">
       </div>
-      <div class="col-xl-6 col-sm-12" style="padding:3% 5% 0% 10%;overflow: hidden;">
-        <h1 class="topic" style="color: rgba(37, 37, 37, 0.623);" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">Computer Graphic <br> Designs</h1><br><br>
+      <div class="col-xl-6 col-sm-12 graphic2">
+        <h1 class="topic graphictopic" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">Computer Graphic <br> Designs</h1><br><br>
 
         <div class="row" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
-          <div class="col-12 cont" style="font-size: 20px;color: rgb(0, 119, 6);font-weight: 700;">
+          <div class="col-12 cont graphiccont">
             <p class="cont">
               Our graphic designers will analyze the customers’ target to provide the perfect solution to enhance their business with graphic designs and creative designs using visual concepts. Ranging from logo designs, flyer designs, video editing, and video animating, we are committed to bringing you the best of graphic designs in a creative way that fits and conforms to your standards.
             </p>
@@ -253,7 +242,7 @@
 
   <div class="hiruna container-fluid "><br>
     <div class="container" style="text-align: center;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
-      <h1 class="topic" style="color: rgba(255, 255, 255, 0.87);">Our Wall Of Love </h1><br>
+      <h1 class="topic testo" >Our Wall Of Love </h1><br>
 
     </div>
     <div class="wrapper mx-auto container-fluid">
@@ -304,7 +293,7 @@
       </div>
     </div>
   </div>
-  <div class="container-fluid" style="padding: 3% 5% 8% 5%;border-radius:100% 0% 100% 0% / 100% 100% 0% 0%  ;background-color: rgba(0, 0, 0, 0.055);margin-bottom:-80px">
+  <div class="container-fluid feedcurve">
     <div class="row" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
       <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8">
         <h1 class="topic" style="font-size: 5vh;">Leave a feedback about our work . . .</h1>
