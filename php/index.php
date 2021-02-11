@@ -129,7 +129,7 @@
     <div class="row weldiv1" >
       <div class="col-xl-6 col-sm-12 weldiv2" data-aos="fade-up" data-aos-delay="500" data-aos-duration="1000"><br><br>
         <h1 class="topic">
-          Welcome to Sequence Creators
+          Who are Sequence Creators?
         </h1><br>
         <p class="cont" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
           Sequence is a team of tech enthusiasts dedicated to providing you with the best web solutions and designs. Join hands with us to experience quality services at the best rates. We provide you with a wide array of services to meet your expectations using the latest technology. Sequence is dedicated to giving you the best customer service with stunning solutions for your problems. So, feel free to contact us. We create the standards!
@@ -242,8 +242,8 @@
     </div>
   </div>
 
-
-  <div class="hiruna container-fluid "><br>
+  
+  <div class="hiruna container-fluid " style="display: none;"><br>
     <div class="container" style="text-align: center;" data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000">
       <h1 class="topic testo" >Our Wall Of Love </h1><br>
 
