@@ -355,13 +355,13 @@
                             <!--social media-->
                             <div class="row">
                                 <div class="circle2">
-                                    <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                    <a href="https://www.linkedin.com/in/thilina-pathirage-1a2039130/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                 </div>
                                 <div class="circle2">
-                                    <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                    <a href="https://twitter.com/thilina_you" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                 </div>
                                 <div class="circle2">
-                                    <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                    <a href="https://github.com/Thilina-Pathirage" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                 </div>
                             </div>
                         </div>
@@ -390,13 +390,13 @@
                                     <!--Social media-->
                                     <div class="row">
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                            <a href="https://www.linkedin.com/in/ruchira-kavinda-b5bbb61b5/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                            <a href="https://twitter.com/RuchiraKavinda2" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/Ruchirakavinda" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -420,13 +420,13 @@
                                     <!--Social media-->
                                     <div class="row">
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                            <a href="https://www.linkedin.com/in/ishan-chanuka-7a6a5b1a5/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                            <a href="https://twitter.com/IshanChanuka2" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/Ishan-Chanuka" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -450,13 +450,13 @@
                                     <!--Social media-->
                                     <div class="row">
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                            <a href="https://www.linkedin.com/in/avishka-sooriyapperuma-003a091b6/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                            <a href="https://twitter.com/AvishkaSooriya2" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/AvishkaSooriyapperuma" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -484,13 +484,13 @@
                                     <!--social media-->
                                     <div class="row">
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                            <a href="https://www.linkedin.com/in/matheesha-nayanajith-4042171b3/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                            <a href="https://twitter.com/matheesha_NM" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/Matheesha-Nayanajith" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -516,13 +516,13 @@
                                     <!--Social media-->
                                     <div class="row">
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                            <a href="https://www.linkedin.com/in/nishani-dissanayake/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                            <a href="https://twitter.com/NishuDissanaya4" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/NishuDissanayake" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -548,13 +548,13 @@
                                     <!--Social media-->
                                     <div class="row">
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                            <a href="https://www.linkedin.com/in/suraji-ekanayaka-1st-4747591a6/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                            <a href="https://twitter.com/SurajiEkanayaka" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/SurajiEkanayaka" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -582,13 +582,13 @@
                                     <!--Social media-->
                                     <div class="row">
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                            <a href="https://www.linkedin.com/in/hiruna-gayashan-9387241a7/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                            <a href="https://twitter.com/hirunagrad" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/Hirunagrad" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -620,7 +620,7 @@
                                             <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/Sisara-Nawarathna" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
@@ -646,13 +646,13 @@
                                     <!--Social media-->
                                     <div class="row">
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
+                                            <a href="https://www.linkedin.com/in/hansi-gayathma-a200b31a6/" class="fa fa-linkedin mr-3 pl-2 li social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
+                                            <a href="https://twitter.com/HansiGayathma" class="fa fa-twitter mr-3 pl-2 tw social" style="font-size: 20px;"></a>
                                         </div>
                                         <div class="circle2">
-                                            <a href="#" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
+                                            <a href="https://github.com/HansiGaya99" class="fa fa-github mr-3 pl-2 git social" style="font-size: 20px;"></a>
                                         </div>
                                     </div>
                                 </div>
