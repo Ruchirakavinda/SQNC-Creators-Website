@@ -39,16 +39,16 @@
           <div class="social-media" data-aos="fade-right" data-aos-delay="600" data-aos-duration="1000">
             <p>Reach Us Via:</p>
             <div class="social-icons">
-              <a href="https://www.facebook.com/sqnccreators">
+              <a href="https://www.facebook.com/sqnccreators" target="_blank">
                 <i class="fab fa-facebook-f"></i>
               </a>
-              <a href="https://mobile.twitter.com/CreatorsSqnc">
+              <a href="https://mobile.twitter.com/CreatorsSqnc" target="_blank">
                 <i class="fab fa-twitter"></i>
               </a>
-              <a href="https://www.instagram.com/sqnc_creators/">
+              <a href="https://www.instagram.com/sqnc_creators/" target="_blank">
                 <i class="fab fa-instagram"></i>
               </a>
-              <a href="https://www.linkedin.com/in/sqnc-creators-a57b721b9/">
+              <a href="https://www.linkedin.com/in/sqnc-creators-a57b721b9/" target="_blank">
                 <i class="fab fa-linkedin-in"></i>
               </a>
             </div>

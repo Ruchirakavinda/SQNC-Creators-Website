@@ -38,13 +38,13 @@
                     
                     <div class="footer-icons">
                         <div class="faicon icon">
-                            <a href="https://www.linkedin.com/in/sqnc-creators-a57b721b9/" class="fa fa-linkedin mr-3 pl-2 li fsocial social" style="font-size: 20px;"></a>
+                            <a href="https://www.linkedin.com/in/sqnc-creators-a57b721b9/" target="_blank" class="fa fa-linkedin mr-3 pl-2 li fsocial social" style="font-size: 20px;"></a>
                         </div>
                         <div class="faicon icon">
-                                <a href="https://mobile.twitter.com/CreatorsSqnc" class="fa fa-twitter mr-3 pl-2 tw fsocial social" style="font-size: 20px;"></a>
+                                <a href="https://mobile.twitter.com/CreatorsSqnc" target="_blank" class="fa fa-twitter mr-3 pl-2 tw fsocial social" style="font-size: 20px;"></a>
                         </div>
                         <div class="faicon icon">
-                            <a href="https://github.com/SQNC-Creators" class="fa fa-github mr-3 pl-2 git fsocial social" style="font-size: 20px;"></a>
+                            <a href="https://github.com/SQNC-Creators" target="_blank" class="fa fa-github mr-3 pl-2 git fsocial social" style="font-size: 20px;"></a>
                         </div>
                     </div>
 

@@ -52,7 +52,7 @@
     <div class="row servicesrow">
       <div class="col-sm-5 col-md-5 col-lg-5 col-xl-5 ">
         <p class="mt-5 heading ml-5" data-aos="fade-right" data-aos-delay="400" data-aos-duration="1000">
-          <span class="slog3">Sequence Creaters</span>
+          <span class="slog3">Sequence Creators</span>
           <br> 
           OUR SERVICES 
           <br>
