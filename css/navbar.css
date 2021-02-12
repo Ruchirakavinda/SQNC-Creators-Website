@@ -49,6 +49,13 @@ nav {
     background-color: #ffffff;
     border-radius: 0px;
   }
+
+  .topbtn{
+    width: 45px !important;
+    height: 45px !important;
+  }
+
+
 }
 
 .topbtn{
@@ -63,4 +70,6 @@ nav {
   background-color: #ffffff !important; 
   color: #30a945 !important;
   font-weight: bold;
+  border: 0 !important;
 }
+

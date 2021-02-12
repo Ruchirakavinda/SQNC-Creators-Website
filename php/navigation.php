@@ -19,5 +19,5 @@
 </nav>
 
 <button onclick="topFunction()"type="button" id="myBtn" class="btn btn-success topbtn">
-    TOP
+    <img src="../images/up-arrow.png" alt="up arrow icon" class="img-fluid up-arrow">
 </button>
