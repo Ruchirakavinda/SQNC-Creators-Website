@@ -15,7 +15,7 @@ if(isset($_POST["sent"])){
      $nmsg = $uname . ": " . $message;
      
      if(mail($to,$subject,$nmsg,$email)){
-        echo "<script> alert('Your Message has been sent, Thank You..!'); window.location.href='index.php'; </script>";
+        echo "<script> alert('Your Message has been sent, Thank You..!'); window.location.href='index'; </script>";
      }
  }
 

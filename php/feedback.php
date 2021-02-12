@@ -14,7 +14,7 @@ if(isset($_POST["sent"])){
      $nmsg = $uname . ": " . $message . " | Phone Number: " . $phone;
      
      if(mail($to,$subject,$nmsg,$email)){
-         echo "<script> alert('Thank You, for your valuable feedback..!'); window.location.href='index.php'; </script>";
+         echo "<script> alert('Thank You, for your valuable feedback..!'); window.location.href='index'; </script>";
      }
  }
 

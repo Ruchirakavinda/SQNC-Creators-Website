@@ -95,7 +95,7 @@
             </div>
             <br><br>
             <!--Checkitout button-->
-            <a href="about.php" style="text-decoration: none;">
+            <a href="about" style="text-decoration: none;">
               <div class="buttoncover">
                 Check It Out
               </div>
@@ -203,7 +203,7 @@
 
         </h1><br>
 
-        <p data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000"><a href="services.php" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
+        <p data-aos="fade-down" data-aos-delay="200" data-aos-duration="1000"><a href="services" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
 
       </div>
 
@@ -232,7 +232,7 @@
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
           </p></div-->
         </div><br>
-        <p data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000"><a href="services.php" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
+        <p data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000"><a href="services" class="more"> More Details <span style="font-weight: 900;">&#10564</span> </a></p>
         <br>
 
 
@@ -304,7 +304,7 @@
       <div class="col-sm-12 col-md-12 col-lg-1 col-xl-1">
       </div>
       <div class="col-sm-12 col-md-12 col-lg-2 col-xl-2">
-        <a href="form.php" style="text-decoration: none;">
+        <a href="form" style="text-decoration: none;">
           <div class="buttonfeed">
             Leave a FeedBack
           </div>
