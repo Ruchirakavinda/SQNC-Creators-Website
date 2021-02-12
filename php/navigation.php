@@ -17,3 +17,7 @@
         </ul>
     </div>
 </nav>
+
+<button onclick="topFunction()"type="button" id="myBtn" class="btn btn-success topbtn">
+    TOP
+</button>
