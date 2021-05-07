@@ -1,0 +1,17 @@
+# mid_rewrite starts here
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# check for file directory with .php
+
+RewriteCond %{REQUEST_FILENAME}\.php -f
+
+
+RewriteRule ^(.*)$ $1.php [NC,L] 
+
+# RewriteCond %{HTTP_HOST} ^sequencecreators.com$ [NC,OR]
+# RewriteCond %{HTTP_HOST} ^www.sequencecreators.com$
+# RewriteCond %{REQUEST_URI} !php/
+# RewriteRule (.*) /php/$1 [L]
