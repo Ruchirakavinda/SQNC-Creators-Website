@@ -1,0 +1,211 @@
+* {
+  font-family: Ubuntu;
+}
+
+.line {
+  width: 10%;
+  height: 5px;
+  background: #30a945;
+  transition: width 1s;
+  border-top-right-radius: 10px;
+}
+.line:hover {
+  width: 50%;
+}
+img {
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+
+.ct {
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.74),
+      rgba(31, 233, 139, 0.3)
+    ),
+    url("../images/portrait-woman-customer-service-worker2.jpg");
+  background-size: cover;
+ 
+  background-position: center;
+  height: 600px;
+}
+.heading {
+  color: rgb(255, 255, 255);
+  font-size: 6vh;
+  font-weight: 500;
+  
+}
+.sub {
+  color: white;
+}
+.cont {
+  border-radius: 15px;
+  margin-top: -5%;
+  box-shadow: 5px 10px 25px rgba(0, 0, 0, 0.199);
+  margin-bottom: 5%;
+  padding-top: 0%;
+}
+.crd {
+  margin-top: 60px;
+}
+h5 {
+  font-weight: 600;
+}
+.slog3 {
+  color: rgb(0, 172, 29);
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+/* Wave animation*/
+
+.waves {
+  position:relative;
+  width: 100%;
+  height:15vh;
+  margin-bottom:-7px; /*Fix for safari gap*/
+  min-height:100px;
+  max-height:100px;
+}
+
+/* Animation */
+
+.parallax > use {
+  animation: move-forever 25s cubic-bezier(.55,.5,.45,.5)infinite;
+}
+.parallax > use:nth-child(1) {
+  animation-delay: -2s;
+  animation-duration: 15s;
+}
+.parallax > use:nth-child(2) {
+  animation-delay: -3s;
+  animation-duration: 17s;
+}
+.parallax > use:nth-child(3) {
+  animation-delay: -4s;
+  animation-duration: 21s;
+}
+.parallax > use:nth-child(4) {
+  animation-delay: -5s;
+  animation-duration: 27s;
+}
+@keyframes move-forever {
+  0% {
+   transform: translate3d(-90px,0,0);
+  }
+  100% { 
+    transform: translate3d(85px,0,0);
+  }
+}
+/*Shrinking for mobile*/
+@media (max-width: 768px) {
+  .waves {
+    height:40px;
+    min-height:60px;
+  }
+ 
+}
+.servicesrow{
+  margin: 0px !important;
+
+}
+
+/* adjest for galaxy fold screen size */
+@media (max-width: 369px) {
+  .our-ser{
+      font-size: 30px;
+    }
+ 
+}
+
+.spara{
+  min-height: 45px;
+}
+
+.lineanimation
+{
+  margin-top:-30px!important;
+  width:100%!important;
+  padding:30px 0px 0px 0px !important;
+}
+
+.servicetopcontent
+{
+  margin-bottom: 100px;
+}
+
+.servicecategory
+{
+  padding-bottom:100px !important;
+}
+
+.servicecards
+{
+  width: 80% !important;
+}
+
+.servicevectorui
+{
+  width: 70% !important;
+}
+
+.uvg
+{
+  width:  17.5px; 
+}
+
+.devimg
+{
+  width: 70% !important;
+}
+
+.webdevbtn
+{
+  width:  17.5px; 
+}
+
+.graphicdesignerimg
+{
+  width: 80% !important;
+}
+
+.graphicbtn
+{
+  width:  17.5px; 
+}
+
+.contentimg
+{
+  width: 80% !important;
+}
+
+.contentbtn
+{
+  width:  17.5px; 
+}
+
+.popupone
+{
+  border-radius: 15px; 
+  background-color: white;
+}
+
+.popuptwo
+{
+  border-radius: 15px; 
+  background-color: white;
+}
+
+.popupthree
+{
+  border-radius: 15px; 
+  background-color: white;
+}
+
+.popupfour
+{
+  border-radius: 15px; 
+  background-color: white;
+}

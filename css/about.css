@@ -8,7 +8,7 @@ html {
   background: linear-gradient(#00000083, rgba(0, 0, 0, 0.527)),
     url("../images/wd.jpg");
   background-position: center;
-  background-attachment: fixed;
+  
   background-size: cover;
   margin-top: 0;
 }
@@ -47,6 +47,7 @@ html {
 }
 #qoute1 {
   color: #30a945;
+  font-weight: bold !important;
 }
 #sqnc {
   color: #00000096;
@@ -132,7 +133,7 @@ html {
   justify-content: center;
 }
 
-.nav-item {
+.nvitm {
   display: inline-block;
   text-align: center;
 }
@@ -180,6 +181,23 @@ html {
 }
 
 /*Team Members*/
+#teamimg {
+  background-image: linear-gradient(#000000b7, rgba(0, 0, 0, 0.719)),
+    url("../images/ourteam.jpg") !important;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+  padding: 5% 5% 5% 6%;
+  
+  text-align: center;
+}
+.textteam {
+  color: #26b83f;
+  font-weight: bold;
+  font-size: 70px;
+}
 .ceo img {
   border-radius: 50%;
   filter: grayscale(100%);
