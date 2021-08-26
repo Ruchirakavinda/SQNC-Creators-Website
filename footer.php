@@ -31,7 +31,7 @@
             <div class="row frow">
                 <div class="col-12 col-lg-4 col-md-12 col-sm-12">
                     <img id="logo-footer" src="../images/Footer-Logo.png">
-                    <p style="color: white;">Feel free to contact us anytime you need. We are ready to provide the best quality services with best possible customer service in order to make your experiance with Sequence Creators amazing. Follow us on our social media to receive updates and alerts about latest offers. We Create the Standards!</p>
+                    <p style="color: white;">Feel free to contact us anytime you need. We are ready to provide the best quality services with best possible customer service in order to make your experience with Sequence Creators amazing. Follow us on our social media to receive updates and alerts about latest offers. We Create the Standards!</p>
                    
                    
                     <!-- Logos here-->
